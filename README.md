@@ -1,7 +1,7 @@
 ### JQuery Dynamic Pagination
 
 #### Download
-(Download dypg library)['https://91ahmed.github.io/projects/dypg/dypg.zip']
+https://91ahmed.github.io/projects/dypg/dypg.zip
 
 #### Example
 
