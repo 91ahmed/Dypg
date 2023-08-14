@@ -1,8 +1,11 @@
 ### JQuery Dynamic Pagination
 
+#### Download
+(Download dypg library)['https://91ahmed.github.io/projects/dypg/dypg.zip']
+
 #### Example
 
-*Include the files*
+Include the files
 ``` html
 <!-- css -->
 <link rel='stylesheet' href='dypg.css'>
@@ -12,11 +15,11 @@
 <script src='dypg.js'></script>
 ```
 
-*create html element with 'dypg' id*
+Create html element with 'dypg' id
 ``` html
 <ul id='dypg'></ul>
 ```
-*initialize javascript options*
+Initialize javascript options
 ``` javascript
 dyPaginate ({
 	count: 35, // number of pages
